@@ -1,0 +1,13 @@
+frontend/node_modules/
+frontend/dist/
+backend/.venv/
+backend/__pycache__/
+backend/*.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/models/*
+!backend/models/.gitkeep
+backend/dataset/*
+*.pyc
+.DS_Store
+!backend/dataset/.gitkeep
